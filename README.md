@@ -3,6 +3,9 @@
 <h3 align="center">A passionate CS learner from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thebibeksah&label=Profile%20views&color=0e75b6&style=flat" alt="thebibeksah" /> </p>
+
+
 - 🌱 I’m currently learning **Cyber_Security**
 
 - 💬 Ask me about **C, Python, Linux, Web dev, etc**
